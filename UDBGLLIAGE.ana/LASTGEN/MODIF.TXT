@@ -1,15 +1,2 @@
-//MO001-002.TXT ANA00001 TO ANA00002
-client		TAR	283	nouvelle taille enregistrement : 283
-client	Prenom	RUB+		Prenom est une nouvelle clé
-client	Nom	RUB+		Nom est une nouvelle clé
-client	Adresse	RUB+		Adresse est une nouvelle rubrique
-client	Telephone	RUB+		Telephone est une nouvelle rubrique
-client	Email	RUB+		Email est une nouvelle rubrique
-client	Photo	RUB+		Photo est une nouvelle rubrique
-client	TypeClient	RUB+		TypeClient est une nouvelle clé
-compte		NFI		nouveau fichier
-typeCompte		NFI		nouveau fichier
-mouvement		NFI		nouveau fichier
-client		NWL	client (IDclient) et compte (IDclient)	Nouvelle liaison entre les fichiers client (IDclient) et compte (IDclient)
-typeCompte		NWL	typeCompte (IDtypeCompte) et compte (IDtypeCompte)	Nouvelle liaison entre les fichiers typeCompte (IDtypeCompte) et compte (IDtypeCompte)
-mouvement		NWL	mouvement (IDmouvement) et compte (IDmouvement)	Nouvelle liaison entre les fichiers mouvement (IDmouvement) et compte (IDmouvement)
+//MO002-003.TXT ANA00002 TO ANA00003
+Agence		NFI		nouveau fichier
